@@ -1,6 +1,7 @@
 { "headers":{
   "/*": {
-    "X-Author": "darykur"
+    "X-Author": "darykur",
+    "Access-Control-Allow-Origin": "*"
     }
   }
 }
